@@ -3,7 +3,7 @@
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <div class="card">
-                    <div class="card-header">Agregar registro</div>
+                    <div class="card-header">Agregar persona</div>
 
                     <div class="card-body">
                         <form @submit.prevent="agregar">
