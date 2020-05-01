@@ -14,7 +14,7 @@
                             <label for="apellido">Apellidos</label>
                             <input id="apellido" class="form-control" type="text" v-model="persona.apellido">
                             <br>
-                            <button class="btn btn-light"><i class="fas fa-plus text-primary mr-2"></i>Agregar</button>
+                            <button class="btn btn-light hover-blue"><i class="fas fa-plus text-primary mr-2"></i>Agregar</button>
                         </form>
                     </div>
                 </div>

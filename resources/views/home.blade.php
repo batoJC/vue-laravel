@@ -17,7 +17,6 @@
                             {{ session('status') }}
                         </div>
                     @endif
-
                     <example-component />
                 </div>
             </div>
